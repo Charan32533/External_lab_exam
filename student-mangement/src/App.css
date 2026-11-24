@@ -1,0 +1,64 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f4f8;
+  text-align: center;
+}
+
+header {
+  background-color: navy;
+  color: white;
+  padding: 25px;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+.container {
+  padding: 30px;
+}
+
+.container h2 {
+  margin-bottom: 20px;
+}
+
+.student {
+  background-color: white;
+  width: 300px;
+  margin: 15px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #cccccc;
+}
+
+.student h3 {
+  margin-bottom: 10px;
+}
+
+.student p {
+  margin: 8px;
+}
+
+.pass {
+  color: green;
+  font-weight: bold;
+}
+
+.fail {
+  color: red;
+  font-weight: bold;
+}
+
+footer {
+  background-color: navy;
+  color: white;
+  padding: 15px;
+  margin-top: 20px;
+}
